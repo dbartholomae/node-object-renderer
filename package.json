@@ -1,13 +1,13 @@
 {
   "name": "object-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module to render all properties of an object individually.",
-  "keywords": ["requirejs", "client", "validate", "validation"],
+  "keywords": ["requirejs", "renderer"],
   "homepage": "https://github.com/dbartholomae/node-object-renderer",
   "bugs": "https://github.com/dbartholomae/node-object-renderer/issues",
   "license": "MIT",
   "author": "Daniel Bartholomae <daniel@bartholomae.name>",
-  "main": "lib/ValidatorRules.js",
+  "main": "lib/ObjectRenderer.js",
   "man": "./doc/index.html",
   "dependencies": {
     "consolidate": "0.12.*",
