@@ -1,4 +1,5 @@
 # node-object-renderer@1.0.0
+## !!! This package is no longer maintained !!!
 A node module to render all properties of an object individually from files and functions to strings.
 All renderers that are supported by [consolidate][consolidate] are supported by this module, too.
 
