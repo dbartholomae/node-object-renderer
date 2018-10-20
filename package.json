@@ -10,15 +10,15 @@
   "main": "lib/ObjectRenderer.js",
   "man": "./doc/index.html",
   "dependencies": {
-    "consolidate": "0.12.*",
+    "consolidate": "~0.15.1",
     "when": "3.*"
   },
   "devDependencies": {
-    "mocha": "2.*",
-    "chai": "2.*",
+    "mocha": "^5.2.0",
+    "chai": "^4.2.0",
     "coffee-script": "1.*",
     "requirejs": "2.*",
-    "chai-as-promised": "5.*",
+    "chai-as-promised": "^7.1.1",
     "dustjs-linkedin": "2.*",
     "jade": "1.*"
   },
