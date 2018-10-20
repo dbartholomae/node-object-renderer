@@ -1,4 +1,7 @@
 # node-object-renderer@1.0.0
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbartholomae/node-object-renderer.svg)](https://greenkeeper.io/)
+
 A node module to render all properties of an object individually from files and functions to strings.
 All renderers that are supported by [consolidate][consolidate] are supported by this module, too.
 
